@@ -4,7 +4,7 @@
 
 #### In this comprehensive E-commerce Data Analysis, Visualization and Web Deployment Project, our goal is to unlock actionable insights and empower informed decision-making for substantial business growth. The dataset includes crucial elements such as customer reviews, payment methods, consumer locations, product categories, and order trends.
 
-### Web Application Link : 
+### Web Application Link : https://e-commerce-webapp.streamlit.app/
 
 ### Web Deployment: 
 #### To make the E-commerce Date Analysis project accessible and user-friendly, I have deployed it as a web application using Streamlit.
