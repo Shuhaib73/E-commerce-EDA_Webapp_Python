@@ -4,6 +4,12 @@
 
 #### In this comprehensive E-commerce Data Analysis, Visualization and Web Deployment Project, our goal is to unlock actionable insights and empower informed decision-making for substantial business growth. The dataset includes crucial elements such as customer reviews, payment methods, consumer locations, product categories, and order trends.
 
+### Web Application Link : 
+
+### Web Deployment: 
+#### To make the E-commerce Date Analysis project accessible and user-friendly, I have deployed it as a web application using Streamlit.
+#### To explore the web application, simply navigate to the provided URL in your web browser. The application is accessible online, allowing you to Viwe the various visualizations and gain valuable insights from the E-commerce data analysis.
+
 ## Objectives:
 
 #### 1. Customer Reviews Analysis:
@@ -27,9 +33,5 @@
 #### 6. Canceled Order Analysis:
 ##### Explore and analyze patterns related to canceled orders, including Payment mode used for cancellation and Visualize Payment Status Proportion for Canceled Orders.
 
-### Web Application Link : 
 
-### Web Deployment: 
-#### To make the E-commerce Date Analysis project accessible and user-friendly, I have deployed it as a web application using Streamlit.
-#### To explore the web application, simply navigate to the provided URL in your web browser. The application is accessible online, allowing you to Viwe the various visualizations and gain valuable insights from the E-commerce data analysis.
 
