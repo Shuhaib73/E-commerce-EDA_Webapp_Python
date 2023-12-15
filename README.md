@@ -15,25 +15,25 @@
 ## Objectives:
 
 #### 1. Customer Reviews Analysis:
-``` Sentiment Analysis: Assess and visualize sentiment patterns within customer reviews to gauge satisfaction levels.```
-``` Feedback Trends: Identify and visualize trends in customer feedback to target areas for improvement.```
+#### Sentiment Analysis: Assess and visualize sentiment patterns within customer reviews to gauge satisfaction levels.
+#### Feedback Trends: Identify and visualize trends in customer feedback to target areas for improvement.
 
 #### 2. Payment Methods Usage:
-``` Distribution Analysis: Explore and visualize the distribution of payment methods to optimize transaction processes.```
+#### Distribution Analysis: Explore and visualize the distribution of payment methods to optimize transaction processes.
 
 #### 3. Consumer Locations Exploration:
-``` Geographical Insights: Identify and analyze the top consumer states and cities.```
+#### Geographical Insights: Identify and analyze the top consumer states and cities.
 
 #### 4. Product Categories Analysis: 
-``` Top-Selling Categories: Analyze and visualize top-selling product categories based on order frequency.```
-``` Sales Distribution Over Date: Visualize sales distribution across product categories Over Time to guide inventory management decisions.```
+#### Top-Selling Categories: Analyze and visualize top-selling product categories based on order frequency.
+#### Sales Distribution Over Date: Visualize sales distribution across product categories Over Time to guide inventory management decisions.
 
 #### 5. Order Trends Examination:
-``` Examine the order frequency variations across years, months, and days to discern patterns and trends.```
-``` Utilize data visualization techniques to portray distinctive order patterns, offering insights for refining inventory management, logistics, and targeted marketing campaigns.```
+#### Examine the order frequency variations across years, months, and days to discern patterns and trends.
+#### Utilize data visualization techniques to portray distinctive order patterns, offering insights for refining inventory management, logistics, and targeted marketing campaigns.
 
 #### 6. Canceled Order Analysis:
-``` Explore and analyze patterns related to canceled orders, including Payment mode used for cancellation and Visualize Payment Status Proportion for Canceled Orders.```
+#### Explore and analyze patterns related to canceled orders, including Payment mode used for cancellation and Visualize Payment Status Proportion for Canceled Orders.
 
 
 
