@@ -9,6 +9,8 @@
 ### Web Deployment: 
 #### To make the E-commerce Date Analysis project accessible and user-friendly, I have deployed it as a web application using Streamlit.
 #### To explore the web application, simply navigate to the provided URL in your web browser. The application is accessible online, allowing you to Viwe the various visualizations and gain valuable insights from the E-commerce data analysis.
+```Conducted in-depth E-commerce Data Analysis, Visualization, and Web Deployment Project with a focus on unlocking actionable insights for substantial business growth, leveraging Python, Pandas, NumPy, Matplotlib and Seaborn. The dataset encompassed key elements such as customer reviews, payment methods, consumer locations, product categories, and order trends.```
+
 
 ## Objectives:
 
